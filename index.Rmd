@@ -13,3 +13,5 @@ i *could* write some code but im not going to.
 ##Add some links
 
 I like [to look for things on the internet](https://www.google.com)
+
+I can link directly to by [about page](about.html)
