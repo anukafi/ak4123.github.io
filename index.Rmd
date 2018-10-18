@@ -9,3 +9,7 @@ And I can put all kinds of stuff on it!
 I can add additional text. 
 
 i *could* write some code but im not going to. 
+
+##Add some links
+
+I like [to look for things on the internet](https://www.google.com)
