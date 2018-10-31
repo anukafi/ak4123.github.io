@@ -21,21 +21,20 @@ instacart_clean = instacart %>%
   janitor::clean_names()
 ```
 
+
 ```{r sample}
 set.seed(5)
 instacart_clean_sample = instacart %>% 
   sample_n(100)
 ```
 
-```{r line graph}
-instacart_clean_sample %>% 
+```{r bar graph}
+instacart_clean_sample %>%
   group_by(order_dow) %>%
-  summarize(orders = n()) %>% 
-  plot_ly(x = ~order_dow, y = ~orders, type = "scatter", mode = "lines",
-          alpha = 0.5) %>% 
-  layout(
-    title = "Hour vs orders Line Graph", 
-    xaxis = list(title = "hour"))
+  summarize(orders = n()) %>%
+  plot_ly(x = ~order_dow, y = ~orders, type = "bar") %>% 
+   layout(
+     title = "DOW & Orders")
 ```
 
 Column {data-width=650}
