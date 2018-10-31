@@ -6,7 +6,14 @@ title: "Anusheh Kafi's Website"
 
 I am a 22 year old, born and raised in McLean, Virginia. 
 
-You can find my resume here: [resume page](resume.html)
+You can find my resume here: [resume page](about.html)
+
+
+Links in the site navigation for your GitHub account, your email, and Linkdn
+
+
 
 This is my pride and joy in miniature pinscher form: 
+
 <img src="images/tempy.png" style="width:75%">
+
