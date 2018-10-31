@@ -1,18 +1,12 @@
 ---
-title: "Anu Kafi's Website"
+title: "Anusheh Kafi's Website"
 ---
 
-### Welcome!
+### Welcome to my site!
 
-Welcome to my website! My name is Anu Kafi, and I am a second year at Columbia University Mailman School of Public Health. I am pursuing a MPH in Epidemiology and a certificate in Applied Biostatistics. 
+I am a 22 year old, born and raised in McLean, Virginia. 
 
-i *could* write some code but im not going to. 
+You can find my resume here: [resume page](resume.html)
 
-##Add some links
-
-I like [to look for things on the internet](https://www.google.com)
-
-You can find my resume [here](about.html)
-
-P.S. This is Tempy, my pride and joy in miniature pinischer form: 
+This is my pride and joy in miniature pinscher form: 
 <img src="images/tempy.png" style="width:75%">
