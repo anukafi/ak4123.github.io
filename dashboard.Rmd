@@ -1,0 +1,29 @@
+---
+title: "flex_dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(tidyverse)
+library(p8105.datasets)
+```
+
+
+```{r naming dataset and values}
+data("brfss_smart2010")
+brfss_data = brfss_smart2010 %>% 
+  janitor::clean_names() %>% 
+  #filter(topic == "Overall Health") %>% 
+  filter(response == "Excellent" | response == "Very good" | response == "Good" | response == "Fair" | response == "Poor") %>% mutate(response = ordered(response, levels = c("Excellent", "Very good", "Good", "Fair", "Poor")))
+```
+
+```{r sample}
+set.seed(1)
+sample_brfss = 
+  instacart %>% 
+  sample_n(1000)
+```
