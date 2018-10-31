@@ -2,4 +2,60 @@
 title: "Resume"
 ---
 
-### Resume
+# Resume
+
+SUMMARY: Dynamic epidemiology MPH candidate with proven oral and written communication skills experienced in interpreting and analyzing large data sets seeking full-time position.
+
+*Education*
+Columbia Mailman School of Public Health	New York, NY
+Master of Public Health, Epidemiology, Certificate in Applied Biostatistics 
+
+•	Relevant Coursework: Research Methods and Applications (Quantitative and Qualitative), Determinants of Health (Biological, Environmental, and Social), Epidemiology 2 and 3, Categorical Data Analysis, Data Coordination, Data Science I, Applied Regression I, Genetic Epidemiology
+•	Activities and Leadership: President of Bloom Girls Mentoring, Office of Student Affairs Tour Guide
+Emory University College of Arts and Sciences
+Bachelor of Arts, Human Health Major, Mathematics Minor                                         
+•	Relevant Coursework: Advanced Probability and Statistics, Multivariable Calculus, Linear Algebra, Differential Equations Core Issues in Global Health, Biocultural Perspectives Health, Microbiome Health and Disease, French Perspectives on Health, History of Mental Health
+•	Activities and Leadership: Delta Delta Delta Sorority Vice President, Junior PanHellenic Council Vice President of Philanthropy, Volunteer Emory, Varsity Soccer Team Member
+•	Study Abroad: CEA Paris Human Health Program in Paris
+
+*Work Experience*
+
+Columbia University Mailman School of Public Health 	New York, NY
+Lead Teaching Assistant, Department of Biostatistics 	August 2018-Present
+•	Maintained professional relationships with sixty students learning to code in SQL
+•	Monitored student activity in class, and provided guidance in course development within the “flipped classroom” setting
+•	Attended lectures, tracked attendance, proctored and graded exams, entered and maintained grades, and provided review preparation for midterm exam.
+•	Held weekly office hours to provide tutoring, counseling, or assistance to students in need
+Graduate Research Assistant, Department of Epidemiology 	March-September 2018
+•	Entered data for hundreds of women and nearly 1000 mammogram images with accuracy to ensure no data entry errors
+•	Conducted analysis regarding the effect of childhood smoke exposures on mammographic breast density in a predominantly Hispanic population using data from nearly 400 women
+
+HealthMPowers	Atlanta, GA
+Child Care Evaluation Intern  	  May-September 2017
+•	Responsible for accurately entering and cleaning data from over 3000 surveys to ensure timely completion of analysis for institutional review 
+•	Analyzed data for 65 centers, creating comprehensive data visualization for individualized center reports, influencing classroom performance of staff to beneficially impact children during critical development periods
+•	Compiled methodology, acting as a guideline for incoming interns to improve precision and accuracy of data analysis 
+
+Emory University Rollins School of Public Health	Atlanta, GA
+Clinical Trial Team Intern 	  May-August 2016
+•	Developed 80-page codebook to guide preparation and organization of large amounts of data collected from clinical trial testing interventions to improve sexual health outcomes for adolescent girls
+Research Assistant	May-August 2016
+•	Evaluated 60 published peer-reviewed articles to advise lead investigator on critical conclusions for upcoming systematic review regarding cost-effective HIV intervention methods
+
+Emory University Center for the Study of Human Health	Atlanta, GA
+Peer Health Partner	        August-December 2016
+•	Instructed 30 freshman on the importance of diet, exercise, and nutrition to ultimately motivate healthy behaviors to create sustainable lifestyle changes
+•	Led original lesson plans that involved dynamic dialogue and discussion to engage students in critical conversations fostering positive attitudes toward health
+
+Cyc Fitness	  Atlanta, GA
+Athlete Receptionist	August-December 2015
+•	Communicated with clients to instill a strong corporate culture of health and wellness, ensuring consumer-centric experience 
+•	Acted as a campus liaison between Emory community and company management to cultivate an integrative, lasting partnership 
+
+*Skills AND Certifications*
+•	Strong knowledge of R, SAS, SQL, Microsoft Office (Excel, Pivot Tables)
+•	HIPAA (Privacy) Certification, CITI (Human Subjects Protection) Certification, Protection of Minors Certification
+•	Bilingual in English and Farsi
+
+*Publications*
+Kaitlyn K. Stanhope, Erika Bettermann, Elizabeth C.H. Stevenson, Samantha D. Julius, Anusheh Kafi, Christi Kay, and Julie A. Gazmararian. Feasibility of a Multicomponent Program to Promote Physical Activity and Nutrition in Georgia Low-income Early Care and Education Settings. Childhood Obesity. Sep 1 2018.
