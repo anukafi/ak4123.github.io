@@ -39,5 +39,13 @@ instacart_clean_sample %>%
      title = "DOW & Orders")
 ```
 
-Column {data-width=650}
-------------------------------------------------------------
+```{r}
+instacart_clean_sample %>%
+  plot_ly(x = ~order_dow, y = ~order_hour_of_day, type = "box") %>% 
+   layout(
+     title = "Distribution", 
+     yaxis = list(title = "Hour"), 
+     xaxis = list(title = "Day of Week")
+     )
+```
+
