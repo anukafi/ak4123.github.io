@@ -62,6 +62,3 @@ instacart_clean_sample %>%
       xaxis = list(title = "Day of Week")
   )
 ```
-
-```{r}
-rmarkdown::render("dashboard.Rmd", output_format = "flex_dashboard")
