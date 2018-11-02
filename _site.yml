@@ -11,7 +11,7 @@ navbar:
       href: https://github.com/anukafi
     - text: "LinkedIn" 
       href: https://www.linkedin.com/in/anushehkafi/
-    - text: "Dashboard" 
+    - text: "Dashboard"
       href: dashboard.html
 output:
   html_document

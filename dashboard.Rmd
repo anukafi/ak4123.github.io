@@ -6,7 +6,7 @@ output:
     vertical_layout: fill
 ---
 
-```{r setup, include=FALSE}
+```{r, include=TRUE}
 library(flexdashboard)
 library(tidyverse)
 library(p8105.datasets)
@@ -15,7 +15,7 @@ library(plotly)
 ```
 
 
-```{r dataset and clean names}
+```{r}
 data("instacart")
 instacart_clean = instacart %>% 
   janitor::clean_names() %>% 
@@ -24,13 +24,13 @@ instacart_clean = instacart %>%
 ```
 
 
-```{r sample}
+```{r}
 set.seed(5)
 instacart_clean_sample = instacart %>% 
   sample_n(100)
 ```
 
-```{r bar graph}
+```{r}
 instacart_clean_sample %>%
   group_by(order_dow) %>%
   summarize(orders = n()) %>%
@@ -39,7 +39,7 @@ instacart_clean_sample %>%
      title = "DOW & Orders")
 ```
 
-```{r box plot}
+```{r}
 instacart_clean_sample %>%
   plot_ly(x = ~order_dow, y = ~order_hour_of_day, type = "box") %>% 
    layout(
@@ -49,9 +49,9 @@ instacart_clean_sample %>%
      )
 ```
 
-```{r scatter plot}
+```{r }
 
-instacart %>% 
+instacart_clean_sample %>% 
   group_by(aisle, department) %>% 
   summarize(ordered_amount = n()) %>% 
   plot_ly(x = ~aisle, y = ~ordered_amount, type = "scatter", mode = "markers",
@@ -60,5 +60,8 @@ instacart %>%
      title = "Number of Orders Per Aisle", 
      yaxis = list(title = "Hour"), 
       xaxis = list(title = "Day of Week")
-       )
+  )
+```
 
+```{r}
+rmarkdown::render("dashboard.Rmd", output_format = "flex_dashboard")
